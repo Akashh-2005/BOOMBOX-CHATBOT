@@ -1,5 +1,5 @@
 # BOOMBOX-CHATBOT
-# BOOMBOX Chatbot
+
 
 A Generative AI chatbot built using:
 
